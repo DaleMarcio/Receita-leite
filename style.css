@@ -1,0 +1,17 @@
+body {
+  background: LightGray;
+}
+
+h1 {
+  text-align: center;
+  color: gray;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+strong {
+  color: gray;
+}
